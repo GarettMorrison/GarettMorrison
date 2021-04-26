@@ -3,7 +3,7 @@ My name is Garett, and I'm a Mechatronics student at Texas A&M University. I mos
 
 I'm interested in robotics, emergent behavior, procedural generation, and mechanical design. I have been fascinated by emergence in simulations for years, and have built a number of evolution simulators from scratch. My most useful project is probably AutoLisp_Tools (in AutoCode), as it resulted in a 75% time save in laser cutting polylines from AutoCad.
 
-I have a number of personal projects documented on my [personal blog](https://garettmorrison.net).
+I have a number of personal projects documented on my [personal blog](https://garettmorrison.net), some of which have code posted here.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GarettMorrison&theme=radical&show_icons=true&count_private=true&hide=issues,contribs)
 
