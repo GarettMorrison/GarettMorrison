@@ -1,7 +1,7 @@
 ### Howdy!
 My name is Garett, and I'm a Mechatronics student at Texas A&M University. I mostly use github for versioning and sharing of personal projects. 
 
-I'm interested in robotics, emergent behavior, procedural generation, and mechanical design. I have been fascinated by emergence in simulations for years, and have built a number of evolution simulators from scratch. My most useful project is probably AutoLisp_Tools (in AutoCode), as it resulted in a 75% time save in laser cutting polylines from AutoCad.
+I'm interested in robotics, embedded systems, emergent behavior, procedural generation, and mechanical design. I have been fascinated by emergence in simulations for years, and have built a number of evolution simulators from scratch. My most useful project is probably AutoLisp_Tools (in AutoCode), as it resulted in a 75% time save in laser cutting polylines from AutoCad.
 
 I have a number of personal projects documented on my [personal blog](https://garettmorrison.net), some of which have code posted here.
 
